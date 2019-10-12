@@ -1,0 +1,15 @@
+1. Compile materials to build and start campfire
+  1.1 Collect wood
+    1.1 Collect small twigs for kindling
+    1.1.2 Collect larger logs to fuel the fire
+    1.1.3 Bring all wood back to campfire ring
+  1.2 Obtain paper towels, newspaper, or leaves
+  1.3 Obtain matches
+2. Start campfire
+  2.1 Create log cabin with kindling
+    2.1.1 Lay kindling in a square in the middle of the fire pit
+    2.1.2 Stack additional squares of kindling on top until you have at least 6 layers
+  2.2 Lay your paper towels, newspaper, or leaves in the middle of the log cabin
+  2.3 Light a match
+  2.4 Hold the match up to the paper or leaves to catch them on campfire
+  
